@@ -1,0 +1,10 @@
+body{background-image: url("https://www.peckbrothersroofing.com/wp-content/uploads/2018/05/weather-changing-featured-peck-brothers.jpg");
+    background-color: #cccccc;
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+.container-fluid{background-color: blue;}
