@@ -34,13 +34,5 @@ $(document).ready(() => {
     );
   }
 });
-// "http://api.openweathermap.org/data/2.5/uvi/forecast?q=" +
-// city +
-// "&lat=" +
-// lat +
-// "&lon" +
-// lon +
-// "units=imperial&appid=fa3026ffedb0a89a5f016059a673f69f"
-// let lat = city.coord.lat;
-// let lon = city.coord.lon;
+
   
