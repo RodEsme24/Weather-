@@ -8,3 +8,7 @@ body{background-image: url("https://www.peckbrothersroofing.com/wp-content/uploa
 
 }
 .container-fluid{background-color: blue;}
+
+ul{
+    list-style-type: none;
+}
